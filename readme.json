@@ -1,0 +1,8 @@
+{
+  "prepare": {
+    "installation": "npm i",
+    "env": "copy & paste the contract address to '.env' file"
+  },
+  "run": "npm start",
+  "result": "console & holderlist.csv"
+}
